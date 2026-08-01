@@ -1,0 +1,26 @@
+<html>
+    <body>
+        <h1 style="text-align:center">Vasavi college of Engineering</h1>
+        <h3>College Registration letter</h3>
+        <form>
+            <label for="fname">First Name:</label><br>
+            <input type="text" id="fname" name="fname" value="Sahithi"><br>
+            <label for="lname">Last Name:</label><br>
+            <input type="text" id="lname" name="lname" value="Palupunoori"><br>
+            <p>Choose your branch:</p>
+            <input text="checkbox" id="b1" name="b1" >
+            <label for="b1">CSE</label><br>
+            <input text="checkbox" id="b2" name="b2" >
+            <label for="b1">INF</label><br>
+            <input text="checkbox" id="b3" name="b3" >
+            <label for="b1">ECE</label><br>
+            <input text="checkbox" id="b4" name="b4" >
+            <label for="b1">EEE</label><br>
+            <input text="checkbox" id="b5" name="b5" >
+            <label for="b1">CIVIL</label><br>
+            <input text="checkbox" id="b6" name="b6" >
+            <label for="b1">MECH</label><br><br>
+            <input text="submit" value="Submit"><br>
+        </form>
+    </body>
+</html>
